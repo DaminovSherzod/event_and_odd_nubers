@@ -6,7 +6,7 @@
 
 #Find the sum of the odd digits in the variable "var_int".
 
-var_int = 1235
+var_int = 1234
 sum_even = 0
 x1 = var_int%10
 var_int //= 10
@@ -26,5 +26,5 @@ b1 = s1 * x1
 b2 = s2 * x2
 b3 = s3 * x3
 b4 = s4 * x4
-y = b1 + b2 + b3 + b4
-print(y)
+sum_even = b1 + b2 + b3 + b4
+print(sum_even)
