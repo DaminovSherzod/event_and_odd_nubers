@@ -6,7 +6,7 @@
 
 #Find the sum of the odd digits in the variable "var_int".
 
-var_int = 1234
+var_int = 3234
 sum_even = 0
 x1 = var_int%10
 var_int //= 10
