@@ -17,5 +17,6 @@ var_int //= 10
 x4 = var_int % 10
 var_int //= 10
 
-s = x1%2 + x2%2 + x3%2 + x4%2
+s = x1 % 2 + x2 % 2 + x3 % 2 + x4 % 2
+
 print(s)
