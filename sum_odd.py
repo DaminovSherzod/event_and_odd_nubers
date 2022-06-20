@@ -18,6 +18,7 @@ x3 = var_int%10
 var_int //= 10
 
 x4 = var_int%10
+var_int //= 10
 s1 = x1 % 2
 s2 = x2 % 2
 s3 = x3 % 2
