@@ -2,6 +2,6 @@
 
 #Print 1 if the number is even, otherwise print 0.
 
-raqam = 6
-x = (raqam + 1) % 2
+number = 6
+x = (namber + 1) % 2
 print(x)
